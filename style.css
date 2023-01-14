@@ -1,0 +1,248 @@
+.page-footer{
+    background-image: url(CUSYMBOL.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px 160px;
+    border-radius: 9px;
+    border size: 933px 445px ;
+}
+
+.h1{background-color: rgb(252, 252, 252);
+border: 2px transparent red;
+
+width: fit-content;
+
+
+margin:10px 0px 0px 450px;
+padding: 2px;
+color: firebrick;
+
+}
+
+
+.h3{
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    margin: 0px 30px 0px 30px;
+    padding: 14px;
+    border-radius: 9px;
+}
+.h4{
+    background-color: rgb(158, 230, 230);
+    height: auto;
+    width: auto;
+    position: center;
+   margin: 14px 30px 0px 30px;
+
+}
+.h5{
+    margin: 14px 30px 0px 30px;
+
+}
+.he{
+    margin: 14px 30px 0px 30px;
+}
+
+    body{
+        background-color: rgba(243, 248, 246, 0.54);
+      
+        background-position: top right;
+        background-image: url(background2.jpg);
+background margin: : 200px 400px 0px 0px;
+        
+        background-size: 233px 233px;
+        background-repeat:no-repeat ;
+        margin: 80px 80px 0px 0px;
+       
+    }
+    .h4{
+        font-size: 3vh;
+
+    }
+    .h5{
+        font-variant: inherit;
+        font-size: 3vh;
+    }
+    .he{
+        font-size: 3vh;
+    }
+    .h3{
+        font-size: 2.5vh;
+    }
+    .h6
+{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;
+    color: blue;
+}
+.h6a{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;}
+.h7{font-style: inherit;
+    font-size: 2.2vh;
+    color: blue;
+    margin: 14px 30px 0px 30px;
+
+}
+.h7a{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;}
+    .p{font-size: 2.2vh;
+        margin: 14px 30px 0px 30px;
+
+    }
+.h8{margin: 14px 30px 0px 30px;
+
+    font-size: 2.4vh;
+}
+.h9{
+    margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;}
+.h10{margin: 14px 30px 0px 30px;
+
+    font-size: 2.4vh;
+}
+.h11{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;
+}
+.h12{
+    margin: 14px 30px 0px 30px;
+    font-size: 2.9vh;
+    font-style: ;
+
+}
+.h13{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh
+
+}
+    .h14{ margin: 14px 30px 0px 30px;
+
+    }
+    .h15{margin: 14px 30px 0px 30px;
+
+        font-size: 2.2vh;
+
+    }
+.h16{
+    margin: 14px 30px 0px 30px;
+    font-size: 2.9vh;
+    font-style: ;
+    color: rgb(237, 28, 45);
+}
+.h17{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;
+        
+}
+.h18{
+    margin: 14px 30px 0px 30px;
+    font-size: 2.9vh;
+    font-style: ;
+    color: rgb(237, 28, 45);
+}
+.h19{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;
+        
+}
+.h20{
+    margin: 14px 30px 0px 30px;
+    font-size: 2.9vh;
+    font-style: ;
+    color: rgb(237, 28, 45);
+}
+.h21{margin: 14px 30px 0px 30px;
+
+    font-size: 2.2vh;
+        
+}
+
+
+
+
+
+
+
+    html {
+        height:100%;
+        box-sizing: border-box;
+    }
+
+    body {
+        height:100%;
+        background-color: #fff;
+        color: #333;
+        font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+        padding: 0;
+        margin: 0;
+    }
+
+    * {
+        box-sizing: inherit;
+    }
+
+    section {
+        height: 100%
+    }
+
+    .wrapper {
+        min-height: 100%;
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+    }
+
+    .page-header
+    {
+        background-color: rgb(75, 70, 74);
+        color: #fff;
+        padding: 20px;
+        margin: 0px ;
+        height: 60px;
+
+    }
+    .page-footer {
+        background-color: rgb(75, 70, 74);
+        color: #fff;
+        padding: 20px;
+        margin: 0px ;
+        height: 160px;
+       scroll-behavior: no;
+        overflow: hidden;
+
+    }
+    .page-body {
+        padding: 20px;
+    background-image: url(https://docs.google.com/spreadsheets/d/e/2PACX-1vQTD-EB0RTt4KqxwssY5exqV3xWMUfDaDZh32MqBKjMycOAoVKSIxxDakiTbZXv01-QbNDh71hcY905/pubhtml?gid=0&single=true);
+   
+    }
+    td{
+        border: 2px solid rgb(4, 3, 30);
+         background-color: rgb(200, 219, 255);   
+        margin: 10px 040px 0px 30px;}
+.tableheading{
+    color: crimson;
+    size: 2.5vh;
+    font-style: inherit;
+    width: 100%;
+    border-collapse: collapse;
+ 
+}
+.tableNSE{
+    scroll-behavior: auto;
+    color: blueviolet;
+    border-color: rgb(231, 56, 120);
+    overflow: visible;
+    
+   
+
+}
+
+
+
+
+
+  
